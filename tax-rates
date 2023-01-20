@@ -1,0 +1,661 @@
+[
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Goods falling in Part-I,I2th Sch.",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": 0.02
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Goods falling in Part-II,12th Sch.",
+  "Rates on ATL": 0.02,
+  "Rates Non-ATL": 0.04
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Goods falling in Part-II,12th Sch, CommercialImporter",
+  "Rates on ATL": 0.035,
+  "Rates Non-ATL": 0.07
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Goods falling in Part III, 12thSch. ",
+  "Rates on ATL": 0.055,
+  "Rates Non-ATL": 0.11
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Proviso 1(a) \nManufactures falling in \nSRO 1125(1)\/2011 of \n31.12.11 ",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": 0.02,
+  "Reference": "Part-II of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Proviso 1 (b) Pharma \nProducts ",
+  "Rates on ATL": 0.04,
+  "Rates Non-ATL": 0.08
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Proviso 1(c) CKD Kits for EVs",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": 0.02
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Proviso 2 rates for \nmobile phones PCT \n8517.1219 ",
+  "Rates on ATL": "Rs.70 to Rs.11,500",
+  "Rates Non-ATL": "Rs.140 to Rs. 23,000"
+ },
+ {
+  "Section": "148 Imports",
+  "Sub Section and Description": "Proviso 2 rates for \nmobile phones PCT \n8517.1211 ",
+  "Rates on ATL": "Rs.0 to Rs. 5,200",
+  "Rates Non-ATL": "Rs.0 to Rs.10,400"
+ },
+ null,
+ null,
+ {
+  "Section": "Section",
+  "Sub Section and Description": "Sub Section and Description",
+  "Rates on ATL": "Rates on ATL",
+  "Rates Non-ATL": "Rates Non-ATL",
+  "Reference": "Reference"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income does not exceed Rs. 600,000  &gt; Rs. 0 ",
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division-I, Part-I of First Schedule Read with R.10(a) of 10th Schedule"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income exceeds Rs. 600,000 but does not exceed Rs. 1,200,000  &gt; 2.5% of the amount exceeding Rs. 600,000 ",
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division-I, Part-I of First Schedule Read with R.10(a) of 10th Schedule"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income exceeds Rs. 1,200,000 but does not exceed Rs. 2,400,000  &gt; Rs. 15,000 +  12.5% of the  amount exceeding  Rs. 1,200,000  ",
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division-I, Part-I of First Schedule Read with R.10(a) of 10th Schedule"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income exceeds  Rs. 2,400,000 but does not  exceed Rs. 3,600,000   &gt; Rs. 165,000 +  20% of the  amount exceeding  Rs. 2,400,000  ",
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division-I, Part-I of First Schedule Read with R.10(a) of 10th Schedule"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income exceeds  Rs. 3,600,000 but does not  exceed Rs. 6,000,000   &gt; Rs. 405,000 +  25% of the  amount exceeding  Rs. 3,600,000  ",
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division-I, Part-I of First Schedule Read with R.10(a) of 10th Schedule"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income exceeds  Rs. 6,000,000 but does not  exceed Rs. 12,000,000   &gt; Rs. 1,005,000 +  32.5% of the amount exceeding ",
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division-I, Part-I of First Schedule Read with R.10(a) of 10th Schedule"
+ },
+ {
+  "Section": "149 Salaries",
+  "Sub Section and Description": "Every person responsible for paying Salary to an employee  shall deduct tax from  the amount paid",
+  "Rates on ATL": "Where taxable income exceeds Rs. 12,000,000  &gt; Rs. 2,955,000 + \n35% of the \namount exceeding \nRs. 12,000,000",
+  "Rates Non-ATL": "No Change"
+ },
+ null,
+ null,
+ {
+  "Section": "150 Dividend",
+  "Sub Section and Description": "(a) Paid by Independent PowerPurchasers(IPPs) where such dividend is pass through item",
+  "Rates on ATL": 0.075,
+  "Rates Non-ATL": 0.15,
+  "Reference": "Division-I, Part-III of First Schedule Read with R.1 Of 10th Schedule"
+ },
+ {
+  "Section": "150 Dividend",
+  "Sub Section and Description": "(b) mutual funds, RealEstate Investment Trust (REIT) and cases other than (a), (c) and (d)",
+  "Rates on ATL": 0.15,
+  "Rates Non-ATL": 0.3,
+  "Reference": "Division-I, Part-III of First Schedule Read with R.1 Of 10th Schedule"
+ },
+ {
+  "Section": "150 Dividend",
+  "Sub Section and Description": "(c)  Dividend  receivedby a REIT scheme from Special Purpose Vehicle",
+  "Rates on ATL": 0,
+  "Rates Non-ATL": 0
+ },
+ {
+  "Section": "150 Dividend",
+  "Sub Section and Description": "(c)  Dividend  received by others from Special PurposeVehicle as defined under the Real Estate Investment Trust Regulations, 2015 ",
+  "Rates on ATL": 0.35,
+  "Rates Non-ATL": 0.7
+ },
+ {
+  "Section": "150 Dividend",
+  "Sub Section and Description": "(d) A company where  no tax is payable by such company, due to exemption of income or carry forward of business losses under Part VIII Chapter III or claim of tax credits under Part X of Chapter III.",
+  "Rates on ATL": 0.25,
+  "Rates Non-ATL": 0.5
+ },
+ null,
+ {
+  "Section": "151Profit on Debt",
+  "Sub Section and Description": "Profit on Debt falling under clause (a) (b) (c) or (d) of sub-section (1)",
+  "Rates on ATL": 0.15,
+  "Rates Non-ATL": 0.3,
+  "Reference": "Division-IA, PartIII of First Schedule Read with R.I of 10th Schedule"
+ },
+ {
+  "Section": "151Profit on Debt",
+  "Sub Section and Description": "Profit on debt on Sukuk by SPV or a company under sub section (1A) Company",
+  "Rates on ATL": 0.25,
+  "Rates Non-ATL": 0.5,
+  "Reference": "Division-IB, Part III of First Schedule, Read with R.I of 10th Schedule"
+ },
+ {
+  "Section": "151Profit on Debt",
+  "Sub Section and Description": "Profit on debt on Sukuk by SPV or a company under sub section (1A) &gt;&gt; Individual AOP return above 1 Million",
+  "Rates on ATL": 0.125,
+  "Rates Non-ATL": 0.25,
+  "Reference": "Division-IB, Part III of First Schedule, Read with R.I of 10th Schedule"
+ },
+ {
+  "Section": "151Profit on Debt",
+  "Sub Section and Description": "Profit on debt on Sukuk by SPV or a company under sub section (1A) &gt;&gt; Individual AOP return below 1 Million",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": 0.2,
+  "Reference": "Division-IB, Part III of First Schedule, Read with R.I of 10th Schedule"
+ },
+ null,
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (1) ",
+  "Rates on ATL": 0.15,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division IV of Part I of the First Schedule "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (IA) ",
+  "Rates on ATL": 0.07,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division II of Part III of the First Schedule, Read with R.10 (b),(ba),(bb) of 10thSch. "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (IAA) ",
+  "Rates on ATL": 0.05,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division II of Part III of the First Schedule, Read with R.10 (b),(ba),(bb) of 10thSch. "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (1AAA) ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division II of Part III of the First Schedule, Read with R.10 (b),(ba),(bb) of 10thSch. "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (IBA) ",
+  "Rates on ATL": 0.2,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Section 152(1BA) "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (1C) ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division IV of Part I of the First Schedule "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (1D) ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division II of Part III of the First Schedule "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Sub-section (1DA) ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": "No change ",
+  "Reference": "Division II of Part III of the First Schedule "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Subsection(1DB) a. In case the sukuk holder is a company ",
+  "Rates on ATL": 0.25,
+  "Rates Non-ATL": "No change ",
+  "Reference": " Division IB of Part III of the First Schedule"
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Subsection(1DB) b. In case the sukuk holder is an individual or an association of person, if the return on investment is more than one million ",
+  "Rates on ATL": 0.125,
+  "Rates Non-ATL": "No change "
+ },
+ {
+  "Section": "152 Payment ot Non-Residents",
+  "Sub Section and Description": "Subsection(1DB) c. In case the sukuk holder is an individual and an association of person, if the return on investment is less than one million ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": "No change"
+ },
+ null,
+ null,
+ {
+  "Section": "152(2A)(a) ",
+  "Sub Section and Description": "Company ",
+  "Rates on ATL": 0.04,
+  "Rates Non-ATL": 0.08
+ },
+ null,
+ {
+  "Section": "152(2A)(a) ",
+  "Sub Section and Description": "Other Than Company ",
+  "Rates on ATL": 0.045,
+  "Rates Non-ATL": 0.09,
+  "Reference": "Division II of Part III of the First Schedule, R.1, 10th Sch."
+ },
+ null,
+ null,
+ {
+  "Section": "152(2A)(b) ",
+  "Sub Section and Description": "Rendering or Providing of certain Services ",
+  "Rates on ATL": 0.03,
+  "Rates Non-ATL": 0.06,
+  "Reference": "Division II of Part III of the First Schedule, R.1, 10th Sch. "
+ },
+ {
+  "Section": "152(2A)(b) ",
+  "Sub Section and Description": "Company cases ",
+  "Rates on ATL": 0.08,
+  "Rates Non-ATL": 0.16,
+  "Reference": "Division II of Part III of the First Schedule, R.1, 10th Sch. "
+ },
+ {
+  "Section": "152(2A)(b) ",
+  "Sub Section and Description": "Other than Company cases ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": 0.2,
+  "Reference": "Division II of Part III of the First Schedule, R.1, 10th Sch. "
+ },
+ null,
+ {
+  "Section": "152(2A)(c) ",
+  "Sub Section and Description": "Sports Person ",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": 0.2,
+  "Reference": "Division II of Part III of the First Schedule R.1, 10thSch."
+ },
+ {
+  "Section": "152(2A)(c) ",
+  "Sub Section and Description": "Other than sports persons ",
+  "Rates on ATL": 0.07,
+  "Rates Non-ATL": 0.14,
+  "Reference": "Division II of Part III of the First Schedule R.1, 10thSch."
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts ",
+  "Sub Section and Description": "153(1)(a) in case of sale of rice, cotton seed or edible oils ",
+  "Rates on ATL": 0.015,
+  "Rates Non-ATL": 0.03,
+  "Reference": "Division III of Part III of the First Schedule Read with R.1 of 10th Schedule "
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(a) in case of sale of goods: Company ",
+  "Rates on ATL": 0.04,
+  "Rates Non-ATL": 0.08,
+  "Reference": "Division III of Part III of the First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(a) in case of sale of goods: Any other case ",
+  "Rates on ATL": 0.045,
+  "Rates Non-ATL": 0.09,
+  "Reference": "Division III of Part III of the First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(b)) in case of certain services. ",
+  "Rates on ATL": 0.03,
+  "Rates Non-ATL": 0.06,
+  "Reference": "Division III of Part III of the First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(b) for services other than mentioned above: Company",
+  "Rates on ATL": 0.08,
+  "Rates Non-ATL": 0.16
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(b) for services other than mentioned above: In any other case",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": 0.2
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(b) In respect of persons making payments to electronic and print media for advertising services",
+  "Rates on ATL": 0.015,
+  "Rates Non-ATL": 0.03
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(c) In case of sportsperson",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": 0.2
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(c) Company",
+  "Rates on ATL": 0.065,
+  "Rates Non-ATL": 0.13
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(1)(c) Any other case",
+  "Rates on ATL": 0.07,
+  "Rates Non-ATL": 0.14
+ },
+ {
+  "Section": "Section 153 Payment for Goods, Services, and Contracts  ",
+  "Sub Section and Description": "153(2)",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": 0.02
+ },
+ {
+  "Section": "154 Exports",
+  "Sub Section and Description": "Sub-section (1)",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division IV of Part III of the First Schedule Read with R.10(c) of le Schedule"
+ },
+ {
+  "Section": "154 Exports",
+  "Sub Section and Description": "Sub-sections (3). (3A), (3B), and (3C)",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division IV of Part III of the First Schedule Read with R.10(c) of le Schedule"
+ },
+ {
+  "Section": "154A Exports of Services",
+  "Sub Section and Description": "Export proceeds of Computer software or IT services or IT Enabled services by persons registered with Pakistan Software Export Board",
+  "Rates on ATL": 0.0025,
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division IVA of Part III of First Schedule, Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "154A Exports of Services",
+  "Sub Section and Description": "Any Other Cases",
+  "Rates on ATL": 0.01,
+  "Rates Non-ATL": "No Change",
+  "Reference": "Division IVA of Part III of First Schedule, Read with R.1 of 10th Schedule"
+ },
+ null,
+ {
+  "Section": "155 Rent of Immovable Property Individuals and AOP",
+  "Sub Section and Description": "Where the gross amount of rent does not exceed Rs.300,000",
+  "Rates on ATL": 0,
+  "Rates Non-ATL": 1,
+  "Reference": "Division V of Part M of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "155 Rent of Immovable Property Individuals and AOP",
+  "Sub Section and Description": "Where the gross amount of rent exceeds Rs.300,000 but does not exceed Rs.600,000",
+  "Rates on ATL": "5 per cent of the gross amount exceeding Rs.300,000.",
+  "Rates Non-ATL": 1,
+  "Reference": "Division V of Part M of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "155 Rent of Immovable Property Individuals and AOP",
+  "Sub Section and Description": "Where the gross amount of rent exceeds Rs.600,000 but does not exceed Rs.2,000,000",
+  "Rates on ATL": "Rs.15,000 plus 10 per cent of the gross amount exceeding Rs.600,000",
+  "Rates Non-ATL": 1,
+  "Reference": "Division V of Part M of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "155 Rent of Immovable Property Individuals and AOP",
+  "Sub Section and Description": "Where the gross amount of rent exceed Rs.2,000,000.",
+  "Rates on ATL": "Rs.155,000 plus 25 per cent of the gross amount exceeding Rs.2,000,000",
+  "Rates Non-ATL": 1,
+  "Reference": "Division V of Part M of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "155 Rent of Immovable Property Company",
+  "Sub Section and Description": "Company",
+  "Rates on ATL": 0.15,
+  "Rates Non-ATL": 0.3,
+  "Reference": "Division V of Part M of First Schedule Read with R.1 of 10th Schedule"
+ },
+ null,
+ {
+  "Section": "156 Prizes and Winnings",
+  "Sub Section and Description": "Prize bond or crossword puzzle",
+  "Rates on ATL": 0.15,
+  "Rates Non-ATL": 0.3,
+  "Reference": "Division VI of Part III First Schedule, read with R.I of 10thSchedule"
+ },
+ {
+  "Section": "156 Prizes and Winnings",
+  "Sub Section and Description": "raffle, lottery, quiz,prize on sale promotion by a company",
+  "Rates on ATL": 0.2,
+  "Rates Non-ATL": 0.4,
+  "Reference": "Division VI of Part III First Schedule, read with R.I of 10thSchedule"
+ },
+ null,
+ {
+  "Section": "156A Sale of Petroleum Products",
+  "Sub Section and Description": "Sale of Petroleum Products",
+  "Rates on ATL": 0.12,
+  "Rates Non-ATL": 0.24,
+  "Reference": "Division VIA of Part III of First Schedule, Read with R.1 of 10th Schedule"
+ },
+ null,
+ null,
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "Upto 850 cc ",
+  "Rates on ATL": "Rs.10,000 ",
+  "Rates Non-ATL": "Rs.30,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule",
+  "Column7": "Provided that in cases where engine capacity is not applicable and the value of vehicle is Rupees five million or more, the rate of tax collectible shall be 3% of the import value as increased by customs duty, sales tax and federal excise duty in case of imported vehicles or invoice value in case of locally manufactured assembled vehicles."
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "851cc to 1000cc ",
+  "Rates on ATL": "Rs.20,000 ",
+  "Rates Non-ATL": "Rs.60,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "1001cc to 1300cc ",
+  "Rates on ATL": "Rs.25,000 ",
+  "Rates Non-ATL": "Rs.75,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "1301cc to 1600cc ",
+  "Rates on ATL": "Rs.50,000 ",
+  "Rates Non-ATL": "Rs.150,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "1601cc to 1800cc ",
+  "Rates on ATL": "Rs.150,000 ",
+  "Rates Non-ATL": "Rs.450,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "1800cc to 2000cc ",
+  "Rates on ATL": "Rs.200,000 ",
+  "Rates Non-ATL": "Rs.600,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "2001cc to 2500ce ",
+  "Rates on ATL": "Rs.300,000 ",
+  "Rates Non-ATL": "Rs .900,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "2501cc to 3000cc ",
+  "Rates on ATL": "Rs.400,000 ",
+  "Rates Non-ATL": "Rs.1,200,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(1) &amp; \n23IB(3)",
+  "Sub Section and Description": "Above 3000cc ",
+  "Rates on ATL": "Rs.500,000 ",
+  "Rates Non-ATL": "Rs.1,500,000",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ null,
+ null,
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "Upto 850 cc ",
+  "Rates on ATL": "Nil ",
+  "Rates Non-ATL": "Nil ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule",
+  "Column7": "Provided that where the engine capacity is not applicable and value of vehicle is Rupees Five million or more; the rate of tax collectible shall be Rupees twenty thousand;\nProvided further that the rate of tax to be collected \nunder this clause shall ye reduced by ten percent each year \nfrom the date of first registration in Pakistan."
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "851cc to 1000cc ",
+  "Rates on ATL": "Rs.5,000 ",
+  "Rates Non-ATL": "Rs.I5,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "1001cc to 1300cc ",
+  "Rates on ATL": "Rs.7,500 ",
+  "Rates Non-ATL": "Rs.22,500 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "1301cc to 1600cc ",
+  "Rates on ATL": "Rs.12,500 ",
+  "Rates Non-ATL": "Rs. 37,500 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "1601cc to 1800cc ",
+  "Rates on ATL": "Rs.18,750 ",
+  "Rates Non-ATL": "Rs. 56,250 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "1801cc to 2000cc ",
+  "Rates on ATL": "Rs.25,000 ",
+  "Rates Non-ATL": "Rs. 75,000 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "2001cc to 2500cc ",
+  "Rates on ATL": "Rs.37,500 ",
+  "Rates Non-ATL": "Rs. 112,500 ",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "2501cc to 3000cc ",
+  "Rates on ATL": "Rs.50,000 ",
+  "Rates Non-ATL": "b",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2)",
+  "Sub Section and Description": "Above 3000cc ",
+  "Rates on ATL": "Rs.62,500 ",
+  "Rates Non-ATL": "Rs187,500",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ null,
+ null,
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2A)",
+  "Sub Section and Description": "Upto 1,000cc",
+  "Rates on ATL": "Rs. 100,000",
+  "Rates Non-ATL": "Rs. 300,000",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2A)",
+  "Sub Section and Description": "1,001cc to 2,000cc",
+  "Rates on ATL": "Rs. 200,000",
+  "Rates Non-ATL": "Rs. 600,000",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "231B Motor Vehicles Sub-section 231B(2A)",
+  "Sub Section and Description": "2,001cc and above",
+  "Rates on ATL": "Rs. 300,000",
+  "Rates Non-ATL": "Rs. 1,200,000",
+  "Reference": "Division VII of Part IV of First Schedule Read with R.1 of 10th Schedule"
+ },
+ null,
+ {
+  "Section": "233 Brokerage and Commission",
+  "Sub Section and Description": "Advertising Agents",
+  "Rates on ATL": 0.1,
+  "Rates Non-ATL": 0.2,
+  "Reference": " \nDivision II of Part IV of the l' Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "233 Brokerage and Commission",
+  "Sub Section and Description": "Life Insurance Agents receiving less than Rs.0.5 M per annum",
+  "Rates on ATL": 0.08,
+  "Rates Non-ATL": 0.16,
+  "Reference": " \nDivision II of Part IV of the l' Schedule Read with R.1 of 10th Schedule"
+ },
+ {
+  "Section": "233 Brokerage and Commission",
+  "Sub Section and Description": "Persons not covered in (1) and (2) above",
+  "Rates on ATL": 0.12,
+  "Rates Non-ATL": 0.24,
+  "Reference": " \nDivision II of Part IV of the l' Schedule Read with R.1 of 10th Schedule"
+ },
+ null,
+ {
+  "Section": "234 Tax on Motor Vehicles",
+  "Sub Section and Description": "Goods Transport Vehicles",
+  "Rates on ATL": "Rs 2.5per Kg of laden of weight",
+  "Rates Non-ATL": "No change",
+  "Reference": "Division III of Part IV of First Schedule Read with R.10(ha) of 10thSchedule"
+ },
+ {
+  "Section": "234 Tax on Motor Vehicles",
+  "Sub Section and Description": "Vehicles above 8,120 Kg of laden weight",
+  "Rates on ATL": "Rs. 1,200 per annum",
+  "Rates Non-ATL": "No change",
+  "Reference": "Division III of Part IV of First Schedule Read with R.10(ha) of 10thSchedule"
+ },
+ null,
+ null,
+ {
+  "Section": "Page 13 0f 19"
+ }
+]
